@@ -1,0 +1,19 @@
+# Word Counter
+
+## Author
+Jeremiah E. Ochepo
+
+## Code Description
+This Python script counts the approximate number of words in a given text file and handles file not found errors gracefully.
+
+## Last Updated
+9/29/19
+
+## Usage
+1. Run the script in a Python environment.
+2. Enter the file path when prompted.
+3. The script will display the approximate number of words in the specified file.
+
+## Example
+```bash
+python word_counter.py
